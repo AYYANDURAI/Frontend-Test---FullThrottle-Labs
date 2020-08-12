@@ -1,0 +1,18 @@
+.users__list {
+    background-color: white !important;
+    width: 450px !important;
+    height: 100px;
+    border-radius: 5px !important;
+}
+
+.user {
+    margin: 20px auto;
+}
+
+.users__listitem {
+    cursor: pointer;
+}
+
+.modal {
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+}

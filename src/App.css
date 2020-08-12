@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.app__container {
+  margin-top: -280px;
+}
+
+.users-icon {
+  color: steelblue !important;
+  font-size: 80px !important;
+  margin-right: 20px !important;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: steelblue !important;
+}
+
+.title {
+  margin-top: 20px;
+}
